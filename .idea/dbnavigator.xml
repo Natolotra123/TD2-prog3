@@ -43,7 +43,7 @@
     <retain-sticky-names value="false" />
   </component>
   <component name="DBNavigator.Project.FileConnectionMappingManager">
-    <mapping file-url="file://$PROJECT_DIR$/src/main/resources/db.sql" connection-id="3cee61f3-dda1-45cd-a871-0ce4927f75f9" session-id="MAIN" current-schema="postgres" />
+    <mapping file-url="file://$PROJECT_DIR$/src/main/java/db.sql" connection-id="3cee61f3-dda1-45cd-a871-0ce4927f75f9" session-id="MAIN" current-schema="postgres" />
   </component>
   <component name="DBNavigator.Project.ObjectQuickFilterManager">
     <last-used-operator value="EQUAL" />
